@@ -1,5 +1,5 @@
 ## Hi there 👋
-#I'm Forthgoer, An undergraduate studying coding 
+###I'm Forthgoer, An undergraduate studying coding 
 - 🔭 I'm currently learning Python, C, C++
 - 🌱 I'm interested in machine learning
 <!--
